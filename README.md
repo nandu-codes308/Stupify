@@ -17,15 +17,15 @@
 [2-3 lines about what your project does]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The lack of viable infrastructure in the education industry for those dislike studying. 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A wonderful website with a small variety of features catered to those who dislike studying.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- JavaScript, HTML, CSS
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
