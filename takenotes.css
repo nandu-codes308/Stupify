@@ -1,0 +1,73 @@
+.notes{
+    color: white;
+    text-align: center;
+    
+}
+.mainnotes{ height: 400px;
+    background-color: rgb(42, 40, 40);
+    color: blueviolet;
+    font-family: cursive;
+    border: 1px solid purple;
+  width: 1000px;
+  align-self: center;
+  padding-top: 10px ;
+  margin-left: 50px;
+  
+} 
+.meow{
+    color: white;
+    text-align: center;
+}
+
+.audio{
+    width: 300px;
+    margin: 20px auto;
+   
+}
+
+
+
+.note{
+    color: purple;
+    background-color: grey;
+    box-sizing: border-box;
+    width: 1000px;
+    margin-left: 50px;
+padding-left: 30px;
+    
+}
+.webname{
+    color: azure;
+    background-color: black;
+    font-family: cursive ;
+    font-size: 150%;
+    
+}
+.motivationbox{background-color: rgb(58, 56, 56);
+height: 100px;
+width: 350px;
+
+padding: 20px;
+border: 1px solid purple;
+
+
+
+
+}
+
+
+.motive{
+    text-align: center;
+    color: purple;
+    
+
+}
+.quote{
+    color: azure;
+    text-align: center;
+}
+.alin{
+    display: flex;
+    column-gap: 15px;
+    align-items: flex-end;
+}

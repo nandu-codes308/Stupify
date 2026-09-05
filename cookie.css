@@ -1,0 +1,62 @@
+.webmain{
+    background-color: black;
+    color: azure;
+    font-family: cursive;
+    font-size: 150%;
+    
+}
+.heading{
+    color: gold;
+    text-align: center;
+}
+.star1{
+   
+    color: aliceblue;
+    
+}
+
+.star2{
+    color: aliceblue;
+    
+}
+.mainheading{
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+}
+.bulb{
+    display: inline-block;
+    transform: translateY(-20px) translateX(-25px) rotate(20deg) ;
+    
+}
+.subheading{
+    color: azure;
+    text-align: center;
+    transform: translateY(-30px) translateX(-35px);
+
+}
+.heart{
+    color:purple;
+    
+}
+.cookie{
+    text-align: center;
+   font-size: 200px;
+   transform: translateY(-180px);
+}
+.cookiebutton{
+    transform: translateY(-250px);
+    background: #7c3aed;
+   color: white;
+   border: none;
+   padding: 12px 25px;
+   border-radius: 25px;
+   
+    
+}
+.cookiebutton:hover{
+    
+   
+    box-shadow: 0 0 15px #7c3aed;
+
+}

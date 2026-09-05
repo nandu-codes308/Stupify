@@ -1,0 +1,123 @@
+.nameee{
+    background-color: black;
+    color: azure;
+    font-family: cursive;
+    font-size: 100%;
+}
+.box1{
+    color: grey;
+    height: 150px;
+    width: 150px;
+    background-color: grey;
+    
+}
+.box2{
+    color: grey;
+    height: 150px;
+     width: 150px;
+    background-color: grey;
+}
+
+
+
+.box3{
+    color: grey;
+    height: 150px;
+     width: 150px;
+    background-color: grey;
+}
+.box4{
+    color: grey;
+    height: 150px;
+     width: 150px;
+    background-color: grey;
+}
+.box5{
+    color: grey;
+    height: 150px; 
+    width: 150px;
+    background-color: grey;
+}
+.box6{
+    color: grey;
+    height: 150px;
+    width: 150px;
+    background-color: grey;
+}
+.box7{
+    color: grey;
+    height: 150px;
+    width: 150px;
+    background-color: grey;
+}
+.box8{
+    color: grey;
+    height: 150px;
+    width: 150px;
+    background-color: grey;
+}
+.box9{
+    color: grey;
+    height: 150px;
+    width: 150px;
+    background-color: grey;
+}
+.board{
+    text-align: center;
+    transform: translateY(10px);
+
+}
+.row{
+    text-align: center;
+    row-gap: 30px;
+    column-gap: 10px;
+    display: flex;
+    justify-content: center;
+}
+.row2{
+    text-align: center;
+    row-gap: 30px;
+    column-gap: 10px;
+    display: flex;
+    justify-content: center;
+    transform: translateY(15px);
+}
+.row3{
+    text-align: center;
+    row-gap: 30px;
+    column-gap: 10px;
+    display: flex;
+    justify-content: center;
+    transform: translateY(30px);
+}
+.heading{
+    padding-left: 300px;
+    font-family: cursive;
+    
+}
+.game{
+    
+    font-size: 50px;
+}
+.heading2{
+    text-align: center;
+    font-family: cursive;
+    transform: translateY(50px);
+    color: blueviolet;
+    font-size: 200%;
+   
+}
+.decoration{
+    color:rgb(251, 249, 253);
+   padding-top: 30px;
+   display: inline-block;
+   transform: translateY(-15px) translateX(-5px) rotate(-20deg) ;
+   
+}
+.ending{
+    text-align: center;
+    color: azure;
+    font-family: fantasy;
+    transform: translateY(20px);
+    
+}
