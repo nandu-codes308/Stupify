@@ -32,14 +32,24 @@ For Software:
 
 ### Implementation
 For Software:
+Stupify is implemented using HTML, CSS, and JavaScript. It contains multiple interactive pages designed around intentionally useless productivity features. JavaScript handles user interactions, random study tips, sound effects, the runaway notes box, and an unbeatable X.O.X game with delayed computer moves. CSS provides the visual styling, while HTML structures the individual pages.
+
 # Installation
-[commands]
+No installation is required.
+Download/clone the project and open the HTML homepage in a web browser.
+Ensure all CSS, JavaScript, and sound files are kept in the correct project folder.
 
 # Run
-[commands]
+git clone <repository-url>
+cd Stupify
+Then simply open index.html in a browser.
+No npm install, server, or dependencies required.
 
 ### Project Documentation
-For Software:
+For Software: 
+
+Hosting link:
+
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
