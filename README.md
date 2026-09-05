@@ -14,7 +14,7 @@
 - Member 2: Anusree D - SCMS School of Engineering and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+Our project 
 
 ### The Problem (that doesn't exist)
 The lack of viable infrastructure in the education industry for those dislike studying. 
@@ -26,14 +26,9 @@ A wonderful website with a small variety of features catered to those who dislik
 ### Technologies/Components Used
 For Software:
 - JavaScript, HTML, CSS
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- None
+- None
+- VS Code, Github, Git,
 
 ### Implementation
 For Software:
@@ -59,25 +54,6 @@ For Software:
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
