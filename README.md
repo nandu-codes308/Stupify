@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# [Stupify] 🎯
 
 
 ## Basic Details
