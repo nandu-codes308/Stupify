@@ -16,7 +16,7 @@ const tips = [
     "Have a 5Star, do nothing (not sponsored).",
     "Reject education, embrace the Ooga Booga.",
     "Assert dominance over the tough topics by ignoring them.",
-    "Treat your notes like they are drugs. Pile them up and set them on fire like the police does."
+    "Treat your notes like they are drugs. Pile them up and set them on fire like the police does.",
     "Don't worry about failure, you could always change your identity and emigrate to a new country.",
     "Refresh your topics periodically, preferably once in every blue moon.",
     "Open your textbook. Stare at it. Congratulations, you have studied 🥳🎉🎉🎉"

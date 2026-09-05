@@ -1,91 +1,53 @@
-// ========================
-// RUNAWAY NOTES 😈
-// ========================
+const notes = document.querySelector(".mainnotes");
 
-const notes = document.getElementById("notes");
+const sound1 = new Audio("Fahhh.mp3");
+const sound2 = new Audio("metal sound.mp3");
+const sound3 = new Audio("yowai-mo.mp3");
+const sound4 = new Audio("run.mp3");
+const sound5 = new Audio("nani.mp3");
+const sound6 = new Audio("domainexpansion.mp3");
+
+let clickCount = 0;
 
 notes.addEventListener("mousedown", function(event) {
 
-    // Stops the textarea from being clicked
     event.preventDefault();
 
-    // Find the available screen space
+    clickCount++;
+
+    if (clickCount === 1) {
+        sound1.currentTime = 0;
+        sound1.play();
+    }
+    else if (clickCount === 2) {
+        sound2.currentTime = 0;
+        sound2.play();
+    }
+    else if (clickCount === 3) {
+        sound3.currentTime = 0;
+        sound3.play();
+    }
+    else if (clickCount === 4) {
+        sound4.currentTime = 0;
+        sound4.play();
+    }
+    else if (clickCount === 5) {
+        sound5.currentTime = 0;
+        sound5.play();
+    }
+    else if (clickCount === 6) {
+        sound6.currentTime = 0;
+        sound6.play();
+    }
+
     const maxX = window.innerWidth - notes.offsetWidth;
     const maxY = window.innerHeight - notes.offsetHeight;
 
-    // Pick random position
     const randomX = Math.random() * maxX;
     const randomY = Math.random() * maxY;
 
-    // Move the notes box
+    notes.style.position = "fixed";
     notes.style.left = randomX + "px";
     notes.style.top = randomY + "px";
-
-});
-
-
-// ========================
-// 25 MINUTE TIMER ⏱️
-// ========================
-
-let time = 25 * 60;
-let timerRunning = false;
-
-const timer = document.getElementById("timer");
-const startBtn = document.getElementById("startBtn");
-
-startBtn.addEventListener("click", function() {
-
-    if (timerRunning) {
-        return;
-    }
-
-    timerRunning = true;
-
-    const countdown = setInterval(function() {
-
-        let minutes = Math.floor(time / 60);
-        let seconds = time % 60;
-
-        timer.textContent =
-            minutes + ":" + (seconds < 10 ? "0" : "") + seconds;
-
-        time--;
-
-        if (time < 0) {
-
-            clearInterval(countdown);
-
-            timer.textContent = "TIME'S UP!";
-
-            timerRunning = false;
-
-        }
-
-    }, 1000);
-
-});
-
-
-// ========================
-// MUSIC 🎵
-// ========================
-
-const music = document.getElementById("music");
-const musicBtn = document.getElementById("musicBtn");
-
-musicBtn.addEventListener("click", function() {
-
-    if (music.paused) {
-
-        music.play();
-        musicBtn.textContent = "🔇 Stop Music";
-
-    } else {
-
-        music.pause();
-        musicBtn.textContent = "🎵 Peaceful Music";
-
-    }
 
 });
