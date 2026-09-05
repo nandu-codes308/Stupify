@@ -14,13 +14,13 @@
 - Member 2: Anusree D - SCMS School of Engineering and Technology
 
 ### Project Description
-Our project 
+Our project is a world changing initiative meant to bring more awareness to the separation felt by procrastinators by the academic community. Our project aims to gift these people a safe space where they can avoid studying and procrastinate as much as they want. Featuring literal 'running' notes, unstudy-tips cookies and super secure noteskeep, a procrasinator will feel so welcome they might even procratinate leaving. Thus we wish to support procrastinators to practice their procrastination as procrastinatically as they can.
 
 ### The Problem (that doesn't exist)
-The lack of viable infrastructure in the education industry for those dislike studying. 
+The lack of viable infrastructure in the education industry for procrastinators. 
 
 ### The Solution (that nobody asked for)
-A wonderful website with a small variety of features catered to those who dislike studying.
+A wonderful website with a small variety of features catered to help procrastinators practice procrastination.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -28,7 +28,7 @@ For Software:
 - JavaScript, HTML, CSS
 - None
 - None
-- VS Code, Github, Git,
+- VS Code, Github, Git
 
 ### Implementation
 For Software:
@@ -64,9 +64,8 @@ For Software:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nandita V Arun: Vibe coded our way up and Githead of team.
+- Anusree D: Made the speacular GUI and mastermind of our website.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
