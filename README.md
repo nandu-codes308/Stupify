@@ -6,13 +6,12 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Padiparava]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Nandita V Arun] - [SCMS School of Engineering and Technology]
+- Member 2: [Anusree D] - [SCMS School of Engineering and Technology]
 
 ### Project Description
 [2-3 lines about what your project does]
