@@ -9,6 +9,7 @@
     height: 150px;
     width: 150px;
     background-color: grey;
+    border: 3.5px solid purple;
     
 }
 .box2{
@@ -16,6 +17,7 @@
     height: 150px;
      width: 150px;
     background-color: grey;
+    border: 3.5px solid purple;
 }
 
 
@@ -25,46 +27,54 @@
     height: 150px;
      width: 150px;
     background-color: grey;
+    border: 3.5px solid purple;
 }
 .box4{
     color: grey;
     height: 150px;
      width: 150px;
     background-color: grey;
+    border: 3.5px solid purple;
 }
 .box5{
     color: grey;
     height: 150px; 
     width: 150px;
     background-color: grey;
+    border: 3.5px solid purple;
 }
 .box6{
     color: grey;
     height: 150px;
     width: 150px;
     background-color: grey;
+    border: 3.5px solid purple;
 }
 .box7{
-    color: grey;
+    color: rgb(123, 106, 131);
     height: 150px;
     width: 150px;
     background-color: grey;
+    border: 3.5px solid purple;
 }
 .box8{
     color: grey;
     height: 150px;
     width: 150px;
-    background-color: grey;
+    background-color: grey
+;
+    border: 3.5px solid purple;
 }
 .box9{
     color: grey;
     height: 150px;
     width: 150px;
     background-color: grey;
+    border: 3.5px solid purple;
 }
 .board{
     text-align: center;
-    transform: translateY(10px);
+    transform: translateY(-30px);
 
 }
 .row{
@@ -91,18 +101,20 @@
     transform: translateY(30px);
 }
 .heading{
-    padding-left: 300px;
+    font-size: 25px;
     font-family: cursive;
+    text-align: center;
+    transform: translateY(-40px);
     
 }
 .game{
     
-    font-size: 50px;
+    font-size: 60px;
+
 }
 .heading2{
     text-align: center;
     font-family: cursive;
-    transform: translateY(50px);
     color: blueviolet;
     font-size: 200%;
    
@@ -120,4 +132,12 @@
     font-family: fantasy;
     transform: translateY(20px);
     
+}
+
+.subheading{
+    text-align: center;
+    color: azure;
+    font-family: cursive;
+    font-size: 120%;
+    transform: translateY(-50px);
 }
