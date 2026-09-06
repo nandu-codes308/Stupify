@@ -48,7 +48,7 @@ No npm install, server, or dependencies required.
 ### Project Documentation
 For Software: 
 
-Hosting link:
+Hosting link: https://stupify-wine.vercel.app/
 
 
 # Screenshots (Add at least 3)
