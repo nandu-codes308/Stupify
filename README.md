@@ -54,16 +54,16 @@ Hosting link: https://stupify-wine.vercel.app/
 
 
 # Screenshots (Add at least 3)
-![Screenshot(2).png](Add screenshot 1 here with proper name)
+[Screenshot 1](images/Screenshot(2).png)
 Home page of our webpage.with three options to choose
 
-![Screenshot(3).png](Add screenshot 2 here with proper name)
+[Screenshot 2](images/Screenshot(3).png)
 This is the interface you see when you click the first box Lets take notes button.There you can see a text box area telling you to write something but when you click to take notes the notepad itself will move around not letting you write a single thing.the audio bar just below also movie around.It have a funny music in when you play.
 
-![Screenshot(4).png](Add screenshot 3 here with proper name)
+[Screenshot 3](images/Screenshot(4).png)
 This is the interface you see when you click the button inside the second box.There you can see a cookie and a button saying"click me for another tip"which will give you some not so productive tips. 
 
-![Screenshot(5).png]
+[Screenshot 4](images/Screenshot(5).png)
 This is the interface you see when you click the third box.There you can see a 3x3 grid and when you clixk one of the tiles a "x" will pop up showing that it is a xox game.the twist:you can never win its gonna be either draw or lose
 
 ### Project Demo
