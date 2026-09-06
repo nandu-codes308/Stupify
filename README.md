@@ -64,11 +64,6 @@ This is the interface you see when you click the button inside the second box.Th
 ![Screenshot(5).png]
 This is the interface you see when you click the third box.There you can see a 3x3 grid and when you clixk one of the tiles a "x" will pop up showing that it is a xox game.the twist:you can never win its gonna be either draw or lose
 
-### Project Demo
-# Video
-![Video](video_xcU0FkOm.mp4)
-
-
 ## Team Contributions
 - Nandita V Arun: Vibe coded (js) our way up and Githead of team.
 - Anusree D: Made the speacular GUI (html,css) and mastermind of our website.

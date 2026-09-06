@@ -1,0 +1,13 @@
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Archives
+*.zip
+*.rar
+
+# Dependencies and secrets
+node_modules/
+.env
