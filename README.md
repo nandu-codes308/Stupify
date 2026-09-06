@@ -41,7 +41,9 @@ Ensure all CSS, JavaScript, and sound files are kept in the correct project fold
 
 # Run
 git clone <repository-url>
+
 cd Stupify
+
 Then simply open index.html in a browser.
 No npm install, server, or dependencies required.
 
